@@ -7,6 +7,14 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
+    //Declare the variable
+        String fortunecookie;
+
+        //Assign a value to the variable
+        fortunecookie = "Success expected";
+
+        //Display the message to user
+        System.out.println(fortunecookie);
     }
 }
+
